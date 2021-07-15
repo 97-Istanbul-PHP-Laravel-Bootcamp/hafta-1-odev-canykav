@@ -10,8 +10,6 @@ routing yapısı -> https://phprouter.com/get-dynamic-routes
 ## Veritabanı 
 categories -> kategoriler tablosu.
  
-ayarlar kısmına geçemedim boşta kaldı
-
 orders-> siparişler.
 
 order_details-> sipariş detayları.
